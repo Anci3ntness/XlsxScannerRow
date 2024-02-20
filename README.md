@@ -1,4 +1,4 @@
-# XlsxScanner - Сканирование xlsx файлов по шаблону
+# XlsxScannerRow - Сканирование xlsx файлов по шаблону
 
 Для работы с проектом требуется скачать [NODE.JS 18] и выше
 https://nodejs.org/en/download
